@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/revoke-object-url-image",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/revoke-object-url-image": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/revoke-object-url-image",
+    "origin"
+  ]
+}
